@@ -1,0 +1,6 @@
+hsa-miR-1246
+hsa-miR-720
+hsa-miR-1321
+hsa-miR-1827
+hsa-miR-628-3p
+hsa-miR-636
